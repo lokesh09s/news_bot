@@ -12,6 +12,6 @@ Things you need
   pip install beautifulsoup4
   pip install requests-html
 
-  (pytorch)
+  
 ```
-    
+(pytorch must be installed, better if support gpu)
