@@ -1,6 +1,6 @@
 
 # Python news discord bot
-This discord bot will give you a random news with summarized content everytime you type news/r in group chat
+This discord bot will give you a random news with summarized content everytime you type news/r in a group chat
 
 
 
